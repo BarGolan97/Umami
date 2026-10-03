@@ -1,0 +1,69 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode
+DerivedData/
+build/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.moved-aside
+*.xccheckout
+*.xcuserstate
+xcuserdata/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.pins
+# For app projects, usually keep Package.resolved. Uncomment next line to ignore in packages only:
+# Package.resolved
+
+# CocoaPods (אם אינך משתמשת, השאירי כך. אם כן, שקלי להסיר מה-ignore ולהעלות Pods/)
+# Pods/
+# *.xcworkspace
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# User-specific and temp
+*.swp
+*.swo
+*.orig
+*.rej
+*.patch
+*.tmp
+*.log
+
+# Secrets / Config
+Secrets.xcconfig
+RecipeApp/Secrets.xcconfig
+RecipeApp/Secrets.swift
+
+# Xcode 15+ device support cache
+DeviceSupport/
+
+# Ignore common asset caches
+*.icloud
+
+# RealityKit / 3D large assets (נשקול Git LFS במקום למחוק)
+# *.reality
+# *.usdz
+# *.usd
+# *.usda
+# *.usdc
+# *.mp4
+# *.mov

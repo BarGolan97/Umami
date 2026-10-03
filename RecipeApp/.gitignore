@@ -1,0 +1,23 @@
+# Xcode
+.DS_Store
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+DerivedData/
+*.moved-aside
+*.swp
+*~.nib
+
+# Swift Package Manager
+.build/
+Packages/
+*.xcodeproj/
+
+# CocoaPods
+Pods/
+
+# Secrets - NEVER COMMIT THESE
+Secrets.swift
+Secrets.xcconfig
+
+# Other
+.env

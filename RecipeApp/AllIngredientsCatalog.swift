@@ -1,0 +1,329 @@
+/*
+ רשימת כל המצרכים הייחודיים באפליקציה (כולל מתכונים שמסונכרנים לענן דרך ה-seeders):
+ סה"כ: 324 מצרכים
+
+- Active dry yeast
+- All-Purpose Flour
+- All-purpose flour
+- All-purpose flour (for topping)
+- Almond milk
+- American or Cheddar cheese (slices)
+- Apple cider vinegar
+- Arborio rice
+- Asian pear, grated
+- Asparagus, trimmed
+- Avocado, sliced
+- BBQ sauce
+- Bacon or Pancetta (diced)
+- Bacon, chopped
+- Baguette
+- Baking powder
+- Baking soda
+- Balsamic glaze (optional)
+- Bamboo shoots, drained
+- Basil pesto
+- Bean Sprouts
+- Bean sprouts
+- Beef Broth
+- Beef Stock
+- Beef broth
+- Beef knuckle or marrow bones
+- Beef short ribs
+- Beef sirloin, thinly sliced
+- Bell pepper, chopped
+- Bell peppers
+- Black beans
+- Black pepper
+- Black pepper (freshly cracked)
+- Bone-in ham
+- Breadcrumbs
+- Broccoli florets
+- Brown sugar
+- Brown sugar (divided: 50g for fruit, 80g for topping)
+- Burger buns
+- Butter
+- Butter (divided)
+- Butter (for toasting buns)
+- Butter, melted
+- Butter, softened
+- Buttermilk
+- Butternut squash, cubed
+- Capers (drained)
+- Carrot, finely diced
+- Carrots, chopped
+- Carrots, diced
+- Cauliflower florets
+- Cayenne pepper
+- Celery stalk, finely diced
+- Celery stalks, diced
+- Cherry Tomatoes
+- Chia seeds
+- Chicken breast tenders
+- Chicken breast, cubed
+- Chicken breasts (butterflied)
+- Chicken broth
+- Chicken or Vegetable broth (kept warm)
+- Chicken stock
+- Chicken thighs
+- Chicken thighs, cut into bite-sized pieces
+- Chickpeas, drained
+- Chocolate chips
+- Chopped clams (reserve juice)
+- Chopped walnuts
+- Cinnamon
+- Cinnamon stick
+- Cocoa powder
+- Cocoa powder (for dusting)
+- Coconut milk
+- Coconut oil
+- Cod or haddock fillets
+- Coffee liqueur (Kahlúa or Marsala wine, optional)
+- Cold beer
+- Cold butter, cubed
+- Cold water
+- Cooked chicken, shredded
+- Cooked quinoa
+- Coriander
+- Corn kernels
+- Cornmeal or flour (for dusting)
+- Cornstarch
+- Cream cheese, room temp
+- Cream cheese, softened
+- Crushed tomatoes
+- Cucumber
+- Cucumber, cut into matchsticks
+- Cumin
+- Dark Chocolate (70%)
+- Dark chocolate (70% cocoa), chopped
+- Dark chocolate shavings (optional)
+- Diced Pancetta
+- Diced tomatoes
+- Digestive biscuits, crushed
+- Dijon mustard
+- Dried chickpeas, soaked
+- Dried oregano
+- Dry Quinoa
+- Dry Red Wine
+- Dry Yeast
+- Dry red wine
+- Dry white wine
+- Egg
+- Egg Yolks
+- Egg yolks
+- Egg yolks (large eggs)
+- Egg, beaten
+- Eggs
+- Eggs, beaten
+- Elbow macaroni
+- Extra Virgin Olive Oil
+- Extra virgin olive oil
+- Feta Cheese
+- Fine Sea Salt
+- Fine sea salt
+- Firm tofu, pressed and cubed
+- Fish Sauce
+- Flaky sea salt
+- Flank steak, thinly sliced
+- Flatbreads
+- Flour
+- Flour (for fruit)
+- Fresh Basil
+- Fresh Mozzarella
+- Fresh Mozzarella cheese
+- Fresh Parsley
+- Fresh basil and cilantro
+- Fresh basil leaves
+- Fresh berries
+- Fresh chives (optional)
+- Fresh cilantro, chopped
+- Fresh lemon juice
+- Fresh mint, chopped
+- Fresh parsley (chopped)
+- Fresh parsley and cilantro
+- Fresh parsley, chopped
+- Fresh rosemary
+- Fresh spinach, finely chopped
+- Fresh thyme
+- Frozen mixed berries
+- Frozen mixed vegetables
+- Garam masala
+- Garlic
+- Garlic (thinly sliced)
+- Garlic paste
+- Garlic powder
+- Garlic, halved
+- Garlic, minced
+- Ginger paste
+- Ginger, charred
+- Ginger, sliced
+- Granny Smith apples, cubed
+- Granulated sugar
+- Granulated sugar (divided: 200g for filling, 50g for sauce)
+- Green curry paste
+- Green onions, chopped
+- Ground Beef
+- Ground beef
+- Ground beef (80% lean / 20% fat)
+- Ground cinnamon
+- Ground lamb
+- Ground turkey
+- Gruyere cheese
+- Gruyère Cheese
+- Hamburger buns
+- Heavy cream
+- Heavy cream (or milk)
+- Heavy cream (whipped with vanilla and sugar for serving)
+- Heavy cream (whipping cream)
+- Honey
+- Ice water
+- Instant polenta
+- Jalapeño pepper, minced (seeds removed)
+- Ketchup
+- Kidney beans
+- Ladyfinger cookies (Savoiardi biscuits)
+- Large carrot, julienned
+- Large eggplants
+- Large eggplants, sliced
+- Large eggs
+- Large eggs, separated
+- Large shrimp, peeled and deveined
+- Large tomatoes (ripe)
+- Lasagna noodles, boiled
+- Lemon Juice
+- Lemon juice
+- Lemon zest
+- Lemon, sliced
+- Lime
+- Lime juice (freshly squeezed)
+- Maple syrup
+- Marinara sauce
+- Mascarpone cheese (room temperature)
+- Mayonnaise
+- Melted butter
+- Melted butter (for dough)
+- Milk
+- Mirin
+- Mozzarella (shredded)
+- Mozzarella cheese, shredded
+- Mushrooms (sliced)
+- Nori (seaweed) sheets
+- Nutmeg
+- Olive Oil
+- Olive oil
+- Onion (finely chopped)
+- Onion powder
+- Onion, Carrot, Celery
+- Onion, chopped
+- Onion, diced
+- Onion, finely diced
+- Onion, grated
+- Onion, halved
+- Onion, halved and charred
+- Onion, quartered
+- Overripe bananas, mashed
+- Panko breadcrumbs
+- Paprika
+- Parmesan cheese
+- Parmesan cheese (grated)
+- Parmesan cheese, grated
+- Peanuts (Crushed)
+- Pecorino Romano (grated)
+- Penne pasta
+- Pie crusts
+- Pineapple chunks
+- Pita breads
+- Pizza sauce
+- Plain yogurt
+- Pomegranate seeds
+- Pork neck bones
+- Pork shoulder
+- Pork tenderloin, cubed
+- Potatoes, cubed
+- Potatoes, cut into thick fries
+- Powdered Sugar
+- Powdered sugar
+- Pre-cooked udon noodles
+- Pre-made pizza dough (room temp)
+- Ramen noodles
+- Rapid-rise yeast
+- Red Onion
+- Red bell pepper, sliced
+- Red food coloring
+- Red onion, sliced
+- Red pepper flakes
+- Ribeye or sirloin, thinly sliced
+- Rice Noodles
+- Rice noodles
+- Rice vinegar
+- Ricotta cheese
+- Ripe avocados
+- Rolled oats
+- Roma tomatoes, diced
+- Salmon fillets
+- Salsa
+- Salt
+- Salt & black pepper
+- San Marzano Tomatoes
+- Sashimi-grade salmon, strips
+- Sea scallops
+- Sesame oil
+- Sharp cheddar cheese
+- Shredded cabbage
+- Shrimp
+- Small onion, finely diced
+- Small pasta
+- Smoked paprika
+- Soft-boiled eggs
+- Softened butter (for filling)
+- Sour cream
+- Soy sauce
+- Soy sauce (tare)
+- Spaghetti
+- Spring roll wrappers
+- Squid rings
+- Star anise
+- Store-bought potato gnocchi
+- Strawberries
+- Strong brewed espresso or coffee (cooled)
+- Sugar
+- Sugar (for custard)
+- Sugar (for topping)
+- Sushi rice
+- Sweet potatoes, cut into thin sticks
+- Tahini
+- Tamarind Paste
+- Thyme
+- Tilapia fillets
+- Tomato Paste
+- Tomato puree
+- Toppings of choice
+- Turmeric
+- Type 00 Pizza Flour
+- Unflavored gelatin
+- Unsalted Butter
+- Unsalted butter
+- Unsalted butter, cubed
+- Unsalted butter, melted
+- Unsalted butter, softened
+- Vanilla bean
+- Vanilla extract
+- Veal shanks
+- Vegetable broth
+- Vegetable oil
+- Vegetable oil (for frying)
+- Warm Water
+- Warm milk
+- Warm water
+- Water
+- White Wine
+- White vinegar
+- White wine (optional)
+- Whole Milk
+- Whole chicken, cut
+- Whole milk
+- Wonton wrappers
+- Wooden skewers
+- Worcestershire sauce
+- Yellow Onions
+- Zucchini, diced
+*/

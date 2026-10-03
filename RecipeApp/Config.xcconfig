@@ -1,0 +1,10 @@
+// Config.xcconfig
+// Main configuration file - this one is safe to commit to Git
+
+// Import the secrets file (which is in .gitignore)
+#include "Secrets.xcconfig"
+
+// You can add other non-sensitive config here in the future
+// For example:
+// API_BASE_URL = https:/$()/api.example.com
+// FEATURE_FLAG_ANALYTICS = YES

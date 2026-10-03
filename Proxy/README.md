@@ -68,7 +68,6 @@ it was rate-limited.
 
 | Thing | Value |
 |---|---|
-| Cloudflare account | Climbingusto@gmail.com |
 | Worker name | `recipeapp-gemini-proxy` |
 | Live URL | `https://recipeapp-gemini-proxy.climbingusto.workers.dev` |
 | Endpoint | `POST /chat` |
@@ -186,9 +185,7 @@ users mid-cook:
 1. Ship the proxy-based build.
 2. Use `ForceUpdateManager` (CloudKit version gate) to require the update.
 3. **Only then** revoke the old keys in Google:
-   - `AIzaSy…fsvk` — in AI Studio / the "Default Gemini Project".
-   - `AIzaSyBEu8…` — the one that was committed to git; likely under a different
-     Google account, so search there.
+    - all previously embedded Gemini keys (in AI Studio / Google Cloud Console).
 
 ---
 
